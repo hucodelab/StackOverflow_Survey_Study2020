@@ -49,8 +49,10 @@ It was found that the programming language it is more strongly correlated to the
 
 Finally, it was also found (with statistical significance = 95%) that developers with some python experience have higher salaries than developers with experience in the following languages: 'TypeScript', 'C++', 'Kotlin', 'C#', 'VBA', 'SQL', 'C', 'JavaScript', 'Java', 'HTML/CSS', 'Dart' and 'PHP'.
 
-# 5. Licensing, Authors, Acknowledgements
+# 5. References
 
 Hypothesis Testing - Difference of Two Means - Student's -Distribution & Normal Distribution - https://www.youtube.com/watch?v=UcZwyzwWU7o
 
 StackOverflow Survey 2020 - https://insights.stackoverflow.com/survey/2020#salary
+
+Udacity
