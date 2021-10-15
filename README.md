@@ -5,6 +5,9 @@
 [3. File descriptions]
 [4. How To Interact With The Project]
 
+This is the link to the medium post of the project
+https://medium.com/@hugova/this-post-will-make-you-rethink-which-programming-languages-are-worth-learning-862228171036
+
 # 1. Installation
 
 In order to execute this project, the following libraries were used
