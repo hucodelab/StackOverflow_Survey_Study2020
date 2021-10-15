@@ -1,9 +1,9 @@
 # Summary
 
-[1. Installation](# 1.-Installation)
-[2. Project Motivation](# 2.-Project-Motivation)
-[3. File descriptions](# 3.-File-descriptions)
-[4. How To Interact With The Project](# 4.-How-To-Interact-With-The-Project)
+[1. Installation]
+[2. Project Motivation]
+[3. File descriptions]
+[4. How To Interact With The Project]
 
 # 1. Installation
 
@@ -17,17 +17,25 @@ In order to execute this project, the following libraries were used
 # 2. Project Motivation
 
 This project is about programming languages and how they are related with some of the most important professional aspects like job satisfaction and annual salaries. The project also use hypothesis testing to compare the salaries of developers who have python experience and developers who have experience with other programming languages. It is important to deeply know the professional aspects presented in this project before starting a career in python programming and data science.
-
+ 
 # 3. File descriptions
 
 StackOverflow_Survey_Study2020/
+
 ├── README.md
+
 ├── StackOverflow_Survey2020.ipynb
+
 ├── survey_results_public.csv
+
 ├── other_survey_docs/
+
     ├── README_2020.txt
+
     ├── so_survey_2020.pdf
+
     ├── survey_results_schema.csv
+
 
 # 4. How To Interact With The Project
 
